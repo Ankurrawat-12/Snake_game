@@ -1,0 +1,9 @@
+Made by:- "Ankur Rawat"
+
+To play the game :
+	1) Run the game.exe file
+
+Cheat Code:-
+ctrl + F5 :- Add 50 to score and increace the length of the snake by 10
+
+********* Do not Delete any files or the game will crash *******
